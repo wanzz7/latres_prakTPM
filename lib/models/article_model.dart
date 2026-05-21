@@ -1,5 +1,3 @@
-/// lib/models/article_model.dart
-
 class Article {
   final int id;
   final String title;
